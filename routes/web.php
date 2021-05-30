@@ -14,4 +14,8 @@ use App\Http\Controllers\HomeController;
 |
 */
 
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
 Route::get('/', 'Controller@index')->name('pages.home');
