@@ -92,7 +92,7 @@
                                         <!-- Image Logo -->
                                         <div class="img-logo">
                                             <a href="{{ route('pages.home') }}">
-                                                <img src="{{ asset('assets/img/logo.png') }}" alt="#">
+                                                <img src="{{ asset('assets/img/team_logo.jpg') }}" alt="#">
                                             </a>
                                         </div>
                                     </div>
