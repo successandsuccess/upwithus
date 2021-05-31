@@ -541,7 +541,7 @@
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                     </ul>
-                                    <p>Extraordinary professional! It has been an honour to work with ofyk awesome calibre. He is deliberate with his JavaScript skills, primarily front-end technologies such as React, and implements with great attention to every detail. Additionally, ofyk puts his heart and soul into his work. He gives you everything he’s got when he gets into a project, either the project is smaller or bigger. I will hire him again in another project and will work with him in the long run.</p>
+                                    <p>Extraordinary professional! It has been an honour to work with Omer awesome calibre. He is deliberate with his JavaScript skills, primarily front-end technologies such as React, and implements with great attention to every detail. Additionally, Omer puts his heart and soul into his work. He gives you everything he’s got when he gets into a project, either the project is smaller or bigger. I will hire him again in another project and will work with him in the long run.</p>
                                     <!-- Client Info -->
                                     <div class="t-info">
                                         <div class="t-left">
