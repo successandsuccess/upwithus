@@ -541,13 +541,12 @@
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                     </ul>
-                                    <p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the <strong>industry's standard</strong> dummy text ever sinsimply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                                        been the industry's standard</p>
+                                    <p>Extraordinary professional! It has been an honour to work with ofyk awesome calibre. He is deliberate with his JavaScript skills, primarily front-end technologies such as React, and implements with great attention to every detail. Additionally, ofyk puts his heart and soul into his work. He gives you everything he’s got when he gets into a project, either the project is smaller or bigger. I will hire him again in another project and will work with him in the long run.</p>
                                     <!-- Client Info -->
                                     <div class="t-info">
                                         <div class="t-left">
-                                            <div class="client-head"><img src="https://via.placeholder.com/70x70" alt="#"></div>
-                                            <h2>Donald Bonam <span>Developer, Soft IT</span></h2>
+                                            <div class="client-head"><img src="{{ asset('assets/img/client/unelma.svg') }}" alt="Santosh"></div>
+                                            <h2>Aantosh K. <span>Support, Unelma</span></h2>
                                         </div>
                                         <div class="t-right">
                                             <div class="quote"><i class="fa fa-quote-right"></i></div>
