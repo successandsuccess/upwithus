@@ -546,7 +546,7 @@
                                     <div class="t-info">
                                         <div class="t-left">
                                             <div class="client-head"><img src="{{ asset('assets/img/client/unelma.svg') }}" alt="Santosh"></div>
-                                            <h2>Aantosh K. <span>Support, Unelma</span></h2>
+                                            <h2>Santosh K. <span>Support, Unelma</span></h2>
                                         </div>
                                         <div class="t-right">
                                             <div class="quote"><i class="fa fa-quote-right"></i></div>
