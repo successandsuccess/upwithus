@@ -247,7 +247,7 @@
                                 <div class="logo">
                                     <div class="img-logo">
                                         <a class="logo" href="{{ route('pages.home') }}">
-                                            <img class="img-responsive" src="{{ asset('assets/img/logo2.png') }}" alt="logo">
+                                            <img class="img-responsive" src="{{ asset('assets/img/team_logo.jpg') }}" alt="logo">
                                         </a>
                                     </div>
                                 </div>
